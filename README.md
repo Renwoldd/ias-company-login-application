@@ -456,11 +456,13 @@ For issues or questions:
 - [Laravel Sanctum Guide](https://laravel.com/docs/sanctum)
 - [PostgreSQL Documentation](https://www.postgresql.org/docs)
 
-## 🎓 Author
-
-Reginald G. Lao
-
 ### Presentation Date: October 17, 2025
+
+## 📧 Developer
+
+**Developer**: Renwoldd
+**GitHub**: [@Renwoldd](https://github.com/Renwoldd)
+**Repository**: [ias-company-login-application](https://github.com/Renwoldd/ias-company-login-apllication)
 
 ---
 
