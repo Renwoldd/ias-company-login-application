@@ -438,7 +438,7 @@ This is an academic project. Contributions are limited to team members.
 
 ## 📝 License
 
-This project is developed for educational purposes as part of the Individual Project course.
+This project is licensed under the MIT License, a permissive open-source license that allows anyone to freely use, modify, distribute, and even commercialize the software, provided that the original copyright notice and permission notice are included in all copies or substantial portions of the software.
 
 ## 🆘 Support
 
@@ -456,12 +456,11 @@ For issues or questions:
 - [Laravel Sanctum Guide](https://laravel.com/docs/sanctum)
 - [PostgreSQL Documentation](https://www.postgresql.org/docs)
 
-## 🎓 Academic Information
+## 🎓 Author
 
-**Course:** information Assurance and Security 1
-**Institution:** Trinity University of Asia
-**Semester:** 1st Semester
-**Presentation Date:** October 17, 2025
+Reginald G. Lao
+
+### Presentation Date: October 17, 2025
 
 ---
 
